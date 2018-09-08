@@ -1,1 +1,5 @@
 C:\Users\Brennan\Documents\PROJECT\Izzet\IzzetAnim\IzzetAnimation\IzzetAnimation\bin\Debug\IzzetAnimation.exe.config
+C:\Users\Brennan\Documents\PROJECT\Izzet\IzzetAnim\IzzetAnimation\IzzetAnimation\bin\Debug\IzzetAnimation.exe
+C:\Users\Brennan\Documents\PROJECT\Izzet\IzzetAnim\IzzetAnimation\IzzetAnimation\bin\Debug\IzzetAnimation.pdb
+C:\Users\Brennan\Documents\PROJECT\Izzet\IzzetAnim\IzzetAnimation\IzzetAnimation\obj\Debug\IzzetAnimation.exe
+C:\Users\Brennan\Documents\PROJECT\Izzet\IzzetAnim\IzzetAnimation\IzzetAnimation\obj\Debug\IzzetAnimation.pdb
